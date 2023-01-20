@@ -1,21 +1,30 @@
-package com.xr.spring.controller;
+package com.xr.spring;
 
-import com.xr.spring.dao.User;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
+@RestController
+@ControllerAdvice
 public class Main {
-    @Autowired
-    User user;
 
+
+@ExceptionHandler
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
-        new Main().test();
+        //new Main().test();
     }
 
-    public void test(){
-        System.out.println(user.getName());
+
+    @RequestMapping("/index")
+    public String get(){
+        return "hello";
+
     }
+
+
 }

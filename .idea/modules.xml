@@ -4,6 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring001.iml" filepath="$PROJECT_DIR$/.idea/Spring001.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1/demo1.iml" filepath="$PROJECT_DIR$/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekdemo/eurekdemo.iml" filepath="$PROJECT_DIR$/eurekdemo/eurekdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignDemo/feignDemo.iml" filepath="$PROJECT_DIR$/feignDemo/feignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/productor8080.iml" filepath="$PROJECT_DIR$/demo2/productor8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace/trace.iml" filepath="$PROJECT_DIR$/trace/trace.iml" />
     </modules>
   </component>
 </project>

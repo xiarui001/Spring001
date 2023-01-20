@@ -2,15 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo1" />
+        <module name="eurekdemo" />
+        <module name="feignDemo" />
+        <module name="gateway" />
+        <module name="productor8080" />
+        <module name="trace" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo1" target="1.8" />
+      <module name="eurekdemo" target="1.8" />
+      <module name="feignDemo" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="productor8080" target="1.8" />
+      <module name="trace" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
