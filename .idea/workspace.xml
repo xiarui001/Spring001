@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Iterator.java" description="E next();" line="69" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="32cd5c89-4097-45f5-80fb-24fa74fce49e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/demo1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/src/com.xr.spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/com.xr.spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/target/classes/com/xr/spring/controller/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/com/xr/spring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/target/classes/com/xr/spring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekdemo/target/classes/com/example/demo3/EurekaServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/eurekdemo/target/classes/com/example/demo3/EurekaServer.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/demo1/target/" />
     <ignored path="$PROJECT_DIR$/demo2/target/" />
@@ -18,6 +25,9 @@
     <ignored path="$PROJECT_DIR$/feignDemo/target/" />
     <ignored path="$PROJECT_DIR$/gateway/target/" />
     <ignored path="$PROJECT_DIR$/trace/target/" />
+    <ignored path="$PROJECT_DIR$/chaos/target/" />
+    <ignored path="$PROJECT_DIR$/webSocket/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,75 +41,75 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/MQ">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Spring001" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EurekaServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java">
+      <file leaf-file-name="demo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chaos/src/main/java/collection/demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+              <folding>
+                <element signature="e#735#845#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#961#969#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnableEurekaServer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.java">
+      <file leaf-file-name="SynchronousQueue.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/SynchronousQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+            <state relative-caret-position="324">
+              <caret line="724" column="17" selection-start-line="708" selection-start-column="23" selection-end-line="724" selection-end-column="17" />
+              <folding>
+                <element signature="e#34990#34991#0" expanded="true" />
+                <element signature="e#35017#35018#0" expanded="true" />
+                <element signature="e#38470#38471#0" expanded="true" />
+                <element signature="e#38527#38528#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EurekaServerMarkerConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerMarkerConfiguration.java">
+      <file leaf-file-name="ExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/ExecutorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EurekaServerAutoConfiguration.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java">
+      <file leaf-file-name="AbstractExecutorService.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/AbstractExecutorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+            <state relative-caret-position="218">
+              <caret line="111" column="13" lean-forward="true" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.properties" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4.jar!/eureka/server.properties">
+      <file leaf-file-name="Executor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/Executor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="15" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.factories" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.6/spring-cloud-netflix-eureka-client-3.0.6.jar!/META-INF/spring.factories">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="78" lean-forward="true" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.factories" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4.jar!/META-INF/spring.factories">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaClientConfigServerAutoConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.6/spring-cloud-netflix-eureka-client-3.0.6-sources.jar!/org/springframework/cloud/netflix/eureka/config/EurekaClientConfigServerAutoConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="135" column="20" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -110,6 +120,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -122,10 +133,38 @@
       <find>apply</find>
       <find>mappedHandler</find>
       <find>configureContext(WebXml</find>
+      <find>this.pullRequestQueue.take</find>
+      <find>partion</find>
+      <find>registerDriver</find>
+      <find />
+      <find>iterator</find>
+      <find>addCount</find>
+      <find>nextTab</find>
+      <find>BeanFactoryPostProcessor</find>
+      <find>internalConfigurationAnnotationProcessor</find>
+      <find>internalEventListenerProcessor</find>
+      <find>forceAutoProxyCreatorToUseClassProxying</find>
+      <find>Property</find>
+      <find>propertyplaceholder</find>
+      <find>ConfigurationWarningsPostProcessor</find>
+      <find>PropertyPlaceholderAutoConfiguration</find>
+      <find />
+      <find>DiscoveryClient</find>
+      <find>EurekaClient</find>
+      <find>submit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/MQ/build.gradle" value="1026706631" />
+        <entry key="$PROJECT_DIR$/MQ/gradle/wrapper/gradle-wrapper.properties" value="2604788409" />
+        <entry key="$PROJECT_DIR$/MQ/settings.gradle" value="4103014672" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,10 +197,28 @@
         <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/DongTaiProxy.java" />
         <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/User.java" />
         <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/ProxyHandler.java" />
-        <option value="$PROJECT_DIR$/demo1/pom.xml" />
         <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/UserImpl.java" />
+        <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/Solution.java" />
+        <option value="$PROJECT_DIR$/demo1/src/resources/application,yml" />
+        <option value="$PROJECT_DIR$/demo1/src/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/SanYouTopicListener.java" />
+        <option value="$PROJECT_DIR$/demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/test/RocketMQTest.java" />
+        <option value="$PROJECT_DIR$/chaos/src/main/java/mq/Producer.java" />
+        <option value="$PROJECT_DIR$/chaos/src/main/java/mq/Consumer.java" />
+        <option value="$PROJECT_DIR$/webSocket/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/webSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/webSocket/src/main/java/App/WebSocketApplication.java" />
+        <option value="$PROJECT_DIR$/webSocket/src/main/java/App/WebSocketUtil.java" />
+        <option value="$PROJECT_DIR$/webSocket/src/main/java/App/ChatServerEndpoint.java" />
+        <option value="$PROJECT_DIR$/webSocket/src/main/resources/html/index.html" />
+        <option value="$PROJECT_DIR$/chaos/src/main/java/suanfa/Main.java" />
+        <option value="$PROJECT_DIR$/chaos/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/Test.java" />
         <option value="$PROJECT_DIR$/demo1/src/com.xr.spring/Main.java" />
         <option value="$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java" />
+        <option value="$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/chaos/src/main/java/collection/demo1.java" />
       </list>
     </option>
   </component>
@@ -201,17 +258,26 @@
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="830" />
     <option name="y" value="175" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -219,7 +285,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,25 +296,25 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="chaos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="chaos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="chaos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="chaos" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -256,7 +322,47 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="chaos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -265,7 +371,7 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -275,7 +381,7 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -286,7 +392,7 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -297,164 +403,46 @@
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring001" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="demo3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="netflix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.6" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.0.6.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="netflix" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
               <item name="maven" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
               <item name="maven" type="462c0819:PsiDirectoryNode" />
               <item name="org.springframework.cloud" type="462c0819:PsiDirectoryNode" />
@@ -462,40 +450,69 @@
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-client-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
               <item name="maven" type="462c0819:PsiDirectoryNode" />
               <item name="org.springframework.cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-netflix-eureka-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-netflix-eureka-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring001" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-cloud-netflix-eureka-server-3.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="eureka" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -503,7 +520,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="E:/eastmoney/probe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/夏锐/HuaBarHttp/RegisterDemo1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -532,7 +549,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Spring Boot.EurekaServer">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="suanfa.Main" />
+      <module name="chaos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suanfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xr.spring.Main" />
       <module name="demo1" />
@@ -544,11 +572,10 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UserImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xr.spring.test.UserImpl" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xr.spring.test.Solution" />
       <module name="demo1" />
-      <option name="VM_PARAMETERS" value="-Dsun.misc.ProxyGenerator.saveGeneratedFiles=true" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xr.spring.test.*" />
@@ -558,6 +585,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.demo1" />
+      <module name="chaos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -575,36 +613,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FeignDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="feignDemo" />
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo3.*" />
+          <option name="PATTERN" value="com.example.demo3.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo3.FeignDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo3.EurekaServer" />
     </configuration>
-    <configuration name="GatewayDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="gateway" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo3.GatewayDemo" />
-    </configuration>
-    <configuration name="Product" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="productor8080" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo3.Product" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xr.spring.Main" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -629,19 +650,20 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.UserImpl" />
-      <item itemvalue="Spring Boot.Product" />
-      <item itemvalue="Spring Boot.FeignDemo" />
-      <item itemvalue="Spring Boot.GatewayDemo" />
+      <item itemvalue="Spring Boot.Main" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.demo1" />
+      <item itemvalue="Spring Boot.EurekaServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaServer" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.UserImpl" />
-        <item itemvalue="Spring Boot.FeignDemo" />
-        <item itemvalue="Spring Boot.Product" />
-        <item itemvalue="Spring Boot.GatewayDemo" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -656,7 +678,11 @@
       <option name="presentableId" value="Default" />
       <updated>1673791129801</updated>
       <workItem from="1673791131545" duration="51750000" />
-      <workItem from="1674115199503" duration="17235000" />
+      <workItem from="1674115199503" duration="19383000" />
+      <workItem from="1674639507038" duration="18504000" />
+      <workItem from="1674902831985" duration="42690000" />
+      <workItem from="1675132412261" duration="41499000" />
+      <workItem from="1675593600961" duration="1875000" />
     </task>
     <task id="LOCAL-00001" summary=".............">
       <created>1673792791871</created>
@@ -669,7 +695,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68985000" />
+    <option name="totallyTimeSpent" value="175701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,43 +708,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500499" side_tool="true" visible="true" weight="0.32962587" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.16167665" side_tool="true" visible="true" weight="0.48533872" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32984033" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="MyBatis Log" order="7" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="7" sideWeight="0.5005834" weight="0.25" />
+      <window_info id="Structure" order="7" sideWeight="0.86868685" side_tool="true" weight="0.29141715" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39939332" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.496507" weight="0.2992922" />
       <window_info anchor="right" id="Redis Explorer" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499501" weight="0.32962587" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.499002" weight="0.32962587" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" sideWeight="0.499501" weight="0.32962587" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.499501" weight="0.32962587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8512974" weight="0.13346815" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499501" visible="true" weight="0.32962587" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49941656" visible="true" weight="0.29141715" />
-      <window_info anchor="bottom" id="Problems" order="7" weight="0.32962587" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.499002" weight="0.32962587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83832335" weight="0.48533872" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.499501" weight="0.32962587" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.498503" weight="0.32962587" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.13131313" visible="true" weight="0.29141715" />
+      <window_info anchor="bottom" id="Problems" order="7" sideWeight="0.499501" weight="0.32962587" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="5" sideWeight="0.5005834" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49201596" weight="0.32962587" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.499501" weight="0.32962587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,16 +788,22 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/serviceregistry/EurekaRegistration.java</url>
-          <line>112</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/gateway/src/main/java/com/example/demo3/GatewayDemo.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo1/src/com.xr.spring/test/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.24/spring-aop-5.3.24-sources.jar!/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/demo1/src/com.xr.spring/test/UserImpl.java</url>
@@ -781,385 +814,388 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="34" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.8/spring-boot-autoconfigure-2.4.8-sources.jar!/org/springframework/boot/autoconfigure/AbstractDependsOnBeanFactoryPostProcessor.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/3.1.5/spring-cloud-context-3.1.5-sources.jar!/org/springframework/cloud/autoconfigure/RefreshAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="92" column="11" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+        <state relative-caret-position="222">
+          <caret line="203" column="20" selection-start-line="203" selection-start-column="20" selection-end-line="203" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.8/spring-boot-autoconfigure-2.4.8.jar!/org/springframework/boot/autoconfigure/jdbc/JdbcOperationsDependsOnPostProcessor.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.0.3/spring-context-6.0.3-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="366">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1-sources.jar!/org/springframework/boot/autoconfigure/AbstractDependsOnBeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="48" column="63" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+        <state relative-caret-position="282">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.7/spring-boot-2.7.7-sources.jar!/org/springframework/boot/web/servlet/ServletComponentHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="174" selection-start-line="174" selection-end-line="175" selection-end-column="77" />
+        <state relative-caret-position="19">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.7/spring-boot-2.7.7-sources.jar!/org/springframework/boot/web/servlet/ServletComponentRegisteringPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="73" column="63" selection-start-line="73" selection-start-column="63" selection-end-line="73" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="428" column="105" selection-start-line="428" selection-start-column="97" selection-end-line="428" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.0.3/spring-beans-6.0.3-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="214" column="19" selection-start-line="214" selection-start-column="19" selection-end-line="214" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.24/spring-core-5.3.24-sources.jar!/org/springframework/core/env/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="4742" selection-start-line="4742" selection-end-line="4742" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/SharedMetadataReaderFactoryContextInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.24/spring-core-5.3.24-sources.jar!/org/springframework/core/env/AbstractEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="274" column="49" lean-forward="true" selection-start-line="274" selection-start-column="49" selection-end-line="274" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/serviceregistry/EurekaRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="130" column="32" lean-forward="true" selection-start-line="130" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="54" column="61" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.24/spring-aop-5.3.24-sources.jar!/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" column="114" selection-start-line="35" selection-start-column="97" selection-end-line="35" selection-end-column="114" />
           <folding>
-            <element signature="e#8151#8152#0" expanded="true" />
-            <element signature="e#8165#8166#0" expanded="true" />
+            <element signature="e#2232#2233#0" expanded="true" />
+            <element signature="e#2250#2251#0" expanded="true" />
+            <element signature="e#4436#4437#0" expanded="true" />
+            <element signature="e#4477#4478#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/6.0.3/spring-aop-6.0.3-sources.jar!/org/springframework/aop/aspectj/annotation/AnnotationAwareAspectJAutoProxyCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-          <folding>
-            <element signature="e#5496#5497#0" expanded="true" />
-            <element signature="e#5548#5549#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="50" column="68" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
+        <state relative-caret-position="153">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/HandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.8/spring-boot-autoconfigure-2.4.8-sources.jar!/org/springframework/boot/autoconfigure/jdbc/JdbcOperationsDependsOnPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.70/tomcat-embed-core-9.0.70.jar!/javax/servlet/Servlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/src/com.xr.spring/test/UserImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/src/com.xr.spring/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/src/main/java/com/example/demo3/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.70/tomcat-embed-core-9.0.70-sources.jar!/javax/servlet/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="141" column="38" lean-forward="true" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/handler/SimpleServletHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="182" column="54" selection-start-line="182" selection-start-column="38" selection-end-line="182" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon/2.3.0/ribbon-2.3.0.jar!/META-INF/ribbon.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.8/spring-boot-2.4.8.jar!/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.8/spring-boot-2.4.8.jar!/org/springframework/boot/ClearCachesApplicationListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.8/spring-boot-2.4.8-sources.jar!/org/springframework/boot/ClearCachesApplicationListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.7/spring-boot-2.7.7-sources.jar!/org/springframework/boot/ApplicationContextFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.7/spring-boot-2.7.7-sources.jar!/org/springframework/boot/DefaultApplicationContextFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.7.7/spring-boot-2.7.7-sources.jar!/org/springframework/boot/SpringApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="1303" column="5" selection-start-line="1303" selection-start-column="5" selection-end-line="1303" selection-end-column="5" />
-          <folding>
-            <element signature="e#9640#9641#0" expanded="true" />
-            <element signature="e#9673#9674#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekdemo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="258" column="36" selection-start-line="258" selection-start-column="31" selection-end-line="258" selection-end-column="36" />
-          <folding>
-            <element signature="e#4646#4647#0" expanded="true" />
-            <element signature="e#4679#4680#0" expanded="true" />
-            <element signature="e#9432#9433#0" expanded="true" />
-            <element signature="e#9464#9465#0" expanded="true" />
-            <element signature="e#10215#10216#0" expanded="true" />
-            <element signature="e#10245#10246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.24/spring-web-5.3.24.jar!/org/springframework/web/context/request/async/WebAsyncManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.24/spring-web-5.3.24-sources.jar!/org/springframework/web/context/request/async/WebAsyncManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="138" column="56" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/HandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="170" column="17" selection-start-line="170" selection-start-column="17" selection-end-line="170" selection-end-column="17" />
-          <folding>
-            <element signature="e#7166#7167#0" expanded="true" />
-            <element signature="e#7185#7186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/HandlerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="148" column="21" selection-start-line="148" selection-start-column="21" selection-end-line="148" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="173" column="24" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.24/spring-webmvc-5.3.24-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="1087" column="33" selection-start-line="1087" selection-start-column="12" selection-end-line="1087" selection-end-column="33" />
-          <folding>
-            <element signature="e#45142#45174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.70/tomcat-embed-core-9.0.70-sources.jar!/org/apache/catalina/startup/ContextConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="1424" column="67" selection-start-line="1424" selection-start-column="67" selection-end-line="1424" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.jar!/com/netflix/appinfo/AbstractEurekaIdentity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17-sources.jar!/com/netflix/appinfo/AbstractEurekaIdentity.java">
+    <entry file="file://$PROJECT_DIR$/MQ/src/main/java/com/example/demo/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        <state relative-caret-position="161">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.jar!/META-INF/eureka-core.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerInitializerConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.jar!/META-INF/eureka-client.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.6/spring-cloud-netflix-eureka-client-3.0.6.jar!/org/springframework/cloud/netflix/eureka/config/EurekaClientConfigServerAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.6/spring-cloud-netflix-eureka-client-3.0.6-sources.jar!/org/springframework/cloud/netflix/eureka/config/EurekaClientConfigServerAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4.jar!/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.6/spring-cloud-netflix-eureka-client-3.0.6.jar!/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="78" lean-forward="true" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="817">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        <state relative-caret-position="304">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerMarkerConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4.jar!/eureka/server.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="15" selection-end-column="23" />
+        <state relative-caret-position="274">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.4/spring-cloud-netflix-eureka-server-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+        <state relative-caret-position="247">
+          <caret line="131" column="43" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/annotation/DeferredImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/annotation/ImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/BeanClassLoaderAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/annotation/Import.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="83" column="26" lean-forward="true" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.7.7/spring-boot-autoconfigure-2.7.7-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="74" column="78" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="745" column="63" selection-start-line="745" selection-start-column="63" selection-end-line="745" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.24/spring-context-5.3.24-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5149">
+          <caret line="310" column="55" selection-start-line="310" selection-start-column="55" selection-end-line="310" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.24/spring-beans-5.3.24-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/3.0.1/spring-boot-autoconfigure-3.0.1-sources.jar!/org/springframework/boot/autoconfigure/SharedMetadataReaderFactoryContextInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="108" column="52" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.4/spring-cloud-netflix-eureka-client-3.1.4-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaDiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.1.5/spring-cloud-commons-3.1.5-sources.jar!/org/springframework/cloud/client/discovery/simple/reactive/SimpleReactiveDiscoveryProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.1.5/spring-cloud-commons-3.1.5-sources.jar!/org/springframework/cloud/client/discovery/DiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekdemo/src/main/java/com/example/demo3/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="185" column="30" lean-forward="true" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="34" />
+          <folding>
+            <element signature="e#4725#4726#0" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="217" column="49" selection-start-line="217" selection-start-column="49" selection-end-line="217" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="111" column="13" lean-forward="true" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaos/src/main/java/collection/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#735#845#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#961#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="724" column="17" selection-start-line="708" selection-start-column="23" selection-end-line="724" selection-end-column="17" />
+          <folding>
+            <element signature="e#34990#34991#0" expanded="true" />
+            <element signature="e#35017#35018#0" expanded="true" />
+            <element signature="e#38470#38471#0" expanded="true" />
+            <element signature="e#38527#38528#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1226,7 +1262,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>demo2</last-edited>
+          <last-edited>productor8080</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

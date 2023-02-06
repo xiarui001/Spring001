@@ -7,21 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chaos" />
+        <module name="demo" />
         <module name="demo1" />
         <module name="eurekdemo" />
         <module name="feignDemo" />
         <module name="gateway" />
         <module name="productor8080" />
         <module name="trace" />
+        <module name="webSocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="chaos" target="1.5" />
+      <module name="demo" target="17" />
       <module name="demo1" target="1.8" />
       <module name="eurekdemo" target="1.8" />
       <module name="feignDemo" target="1.8" />
       <module name="gateway" target="1.8" />
       <module name="productor8080" target="1.8" />
       <module name="trace" target="17" />
+      <module name="webSocket" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

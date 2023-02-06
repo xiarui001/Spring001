@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/feignDemo/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/trace/pom.xml" />
+        <option value="$PROJECT_DIR$/chaos/pom.xml" />
+        <option value="$PROJECT_DIR$/webSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
       </list>
     </option>
   </component>
